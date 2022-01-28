@@ -10,3 +10,5 @@
 - *(querySelector ile html elementlerine erişim sağlayabilirsiniz)*
 - *(style, classList ile stillerle oynayabilirsiniz)*
 - *(addEventListener ile kullanıcı etkileşimlerini yakalayabilirsiniz)*
+
+![Tictactoke](https://user-images.githubusercontent.com/7365193/151542928-d389dc32-a067-4d8c-b0de-b5a13064da36.PNG)
